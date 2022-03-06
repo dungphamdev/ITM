@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "A9scJ+ojN8yJbA6iv9/gUFhOKFSTtdJAf/828UlkTuU=",
+  "Source": "MoviesAPI",
+  "BasePath": "_content/MoviesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MoviesAPI\\wwwroot",
+      "Source": "MoviesAPI",
+      "ContentRoot": "C:\\dungpt\\00.repos\\React-and-ASP.NET-Core\\React 17 and ASP.NET Core 6\\Module 10 - Deployments\\End\\MoviesAPI\\MoviesAPI\\wwwroot\\",
+      "BasePath": "_content/MoviesAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\dungpt\\00.repos\\React-and-ASP.NET-Core\\React 17 and ASP.NET Core 6\\Module 10 - Deployments\\End\\MoviesAPI\\MoviesAPI\\wwwroot\\actors\\01a68872-3696-4c1a-bcf9-3d59dfb575c4.jpg",
+      "SourceId": "MoviesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dungpt\\00.repos\\React-and-ASP.NET-Core\\React 17 and ASP.NET Core 6\\Module 10 - Deployments\\End\\MoviesAPI\\MoviesAPI\\wwwroot\\",
+      "BasePath": "_content/MoviesAPI",
+      "RelativePath": "actors/01a68872-3696-4c1a-bcf9-3d59dfb575c4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actors\\01a68872-3696-4c1a-bcf9-3d59dfb575c4.jpg"
+    },
+    {
+      "Identity": "C:\\dungpt\\00.repos\\React-and-ASP.NET-Core\\React 17 and ASP.NET Core 6\\Module 10 - Deployments\\End\\MoviesAPI\\MoviesAPI\\wwwroot\\actors\\53af73e6-a9b7-4ab4-9471-465c6f1e6d45.png",
+      "SourceId": "MoviesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dungpt\\00.repos\\React-and-ASP.NET-Core\\React 17 and ASP.NET Core 6\\Module 10 - Deployments\\End\\MoviesAPI\\MoviesAPI\\wwwroot\\",
+      "BasePath": "_content/MoviesAPI",
+      "RelativePath": "actors/53af73e6-a9b7-4ab4-9471-465c6f1e6d45.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actors\\53af73e6-a9b7-4ab4-9471-465c6f1e6d45.png"
+    },
+    {
+      "Identity": "C:\\dungpt\\00.repos\\React-and-ASP.NET-Core\\React 17 and ASP.NET Core 6\\Module 10 - Deployments\\End\\MoviesAPI\\MoviesAPI\\wwwroot\\movies\\50051f2a-1c18-4aea-8e29-fe7f3e1f616c.png",
+      "SourceId": "MoviesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dungpt\\00.repos\\React-and-ASP.NET-Core\\React 17 and ASP.NET Core 6\\Module 10 - Deployments\\End\\MoviesAPI\\MoviesAPI\\wwwroot\\",
+      "BasePath": "_content/MoviesAPI",
+      "RelativePath": "movies/50051f2a-1c18-4aea-8e29-fe7f3e1f616c.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\movies\\50051f2a-1c18-4aea-8e29-fe7f3e1f616c.png"
+    }
+  ]
+}
